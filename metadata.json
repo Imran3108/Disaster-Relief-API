@@ -1,0 +1,7 @@
+{
+  "name": " RescueNet: Disaster Relief Coordinator",
+  "description": "An offline-first disaster relief coordination platform allowing citizens to request help, volunteers to manage tasks, and admins to monitor status via SMS fallback and automated sync.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
